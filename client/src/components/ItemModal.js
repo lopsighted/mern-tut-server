@@ -69,10 +69,6 @@ class ItemModal extends Component {
     };
 
 }
-
-
-
-
 const mapStateToProps = state => ({
     item: state.item
 })
