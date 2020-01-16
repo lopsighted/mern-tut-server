@@ -2,6 +2,10 @@
   "name": "mern-tut",
   "version": "13.6.0",
   "description": "Shopping list built with MERN",
+  "engines": {
+    "node": "13.6.0",
+    "npm": "6.13.6"
+  },
   "main": "server.js",
   "scripts": {
     "client-install": "npm i --prefix client",
